@@ -1,0 +1,5 @@
+name: django-recipes
+dependencies:
+  - python=3.12.0
+  - pip:
+      - django==5.0
